@@ -1,0 +1,56 @@
+{
+    "bot_config": {
+        "server_id": 993275239100321915,
+        "logs": 1007623451110031420, 
+        "prefix": "-",
+        "token": "",
+        "twitch_channel": "1007604409921974342",
+        "twitch_channel_2": "1007604333778571344"
+    },
+    "tfollow": {
+        "Owner": 5000,
+        "Premium": 1000,
+        "Diamond": 750,
+        "Gold": 500,
+        "Silver": 350,
+        "Bronze": 200,
+        "wrld": 80
+    },
+    "tfriend": {
+        "CEO": 600,
+        "Loyal": 480,
+        "Chatter ": 250,
+        "Active": 120,
+        "Casual": 50,
+        "Regular": 25,
+        "wrld": 5
+    },
+    "treport": {
+        "CEO": 6900,
+        "Loyal": 480,
+        "Chatter ": 320,
+        "Active": 240,
+        "Casual": 120,
+        "Regular": 60,
+        "wrld": 5
+    },
+    "tspam": {
+        "CEO": 100,
+        "Loyal": 25,
+        "Chatter": 15,
+        "get": 4,
+        "bob": 2
+    },
+    "ttroll": {
+        "CEO": 150,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15
+    },
+    "thost": {
+        "CEO": 100,
+        "Loyal": 6,
+        "Chatter": 3,
+        "Active": 2
+    }
+    }
